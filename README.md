@@ -11,6 +11,7 @@ This repository contains the tasks I did as an intern with Yoshops.
  This the content that I am permitted to share. So please see all the eight tasks carefully and share your valuable feedback.
 
 **Task 1**
+
 Prepare excel charts
 
 **Task 2**
